@@ -1,0 +1,15 @@
+.card {
+    background-color: hsl(0, 0%, 100%);
+    border-radius: 15px;
+}
+body {
+    background-color: hsl(212, 45%, 89%);
+}
+.card-text {
+    color:hsl(220, 15%, 55%);
+}
+
+img {
+    border-radius: 15px;
+    margin: 2px;
+}
